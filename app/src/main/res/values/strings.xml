@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InvocarAplicacionesIncorporadas</string>
+    <string name="navegador_web">Navegador Web</string>
+    <string name="hacer_llamada">Hacer llamada</string>
+    <string name="marcar_numero">marcar numero</string>
+    <string name="llamar">llamar</string>
+</resources>
